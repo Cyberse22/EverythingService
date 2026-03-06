@@ -1,0 +1,17 @@
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\bin\Debug\net10.0\AuthService.Persistence.deps.json
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\bin\Debug\net10.0\AuthService.Persistence.dll
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\bin\Debug\net10.0\AuthService.Persistence.pdb
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\bin\Debug\net10.0\AuthService.Domain.dll
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\bin\Debug\net10.0\AuthService.Domain.pdb
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\obj\Debug\net10.0\AuthService.Persistence.csproj.AssemblyReference.cache
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\obj\Debug\net10.0\AuthService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\obj\Debug\net10.0\AuthService.Persistence.AssemblyInfoInputs.cache
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\obj\Debug\net10.0\AuthService.Persistence.AssemblyInfo.cs
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\obj\Debug\net10.0\AuthService.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\obj\Debug\net10.0\AuthServ.5D1D95C4.Up2Date
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\obj\Debug\net10.0\AuthService.Persistence.dll
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\obj\Debug\net10.0\refint\AuthService.Persistence.dll
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\obj\Debug\net10.0\AuthService.Persistence.pdb
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\obj\Debug\net10.0\ref\AuthService.Persistence.dll
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\bin\Debug\net10.0\AuthService.Persistence.runtimeconfig.json
+C:\Users\kieth\OneDrive\Desktop\EverythingService\DotNet\AuthService\src\AuthService.Persistence\obj\Debug\net10.0\AuthService.Persistence.genruntimeconfig.cache
