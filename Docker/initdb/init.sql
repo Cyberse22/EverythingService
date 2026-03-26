@@ -1,2 +1,4 @@
 CREATE DATABASE authdb;
 CREATE DATABASE keycloak;
+CREATE DATABASE userdb;
+CREATE DATABASE notificationdb;

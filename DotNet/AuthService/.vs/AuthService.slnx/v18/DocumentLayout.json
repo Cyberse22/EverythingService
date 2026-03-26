@@ -51,8 +51,7 @@
               "RelativeToolTip": "src\\AuthService.API\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T07:22:04.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T07:22:04.679Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "src\\AuthService.Infrastructure\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T07:19:40.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T07:19:40.464Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "src\\AuthService.Domain\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T07:17:30Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T07:17:30Z"
             }
           ]
         }
